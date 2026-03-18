@@ -8,21 +8,23 @@ Proposed OS-Level Age Verification Laws:[Colorado](https://x.com/lundukejournal/
 
 ### Operating Systems Not Implementing Age Verification
 
-The developers or publishers of these open source Operating Systems have decided to not implement Age Verification.
+The developers or publishers of these open source Operating Systems have decided to not implement Age Verification, or are currently restricting access in regions with Age Verification laws.
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
 | :no_entry: | **Midnight BSD** | [License forbids usage in Brazil, California](https://github.com/MidnightBSD/src?tab=License-1-ov-file) |
 | :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
 
-### Operating Systems Which Have Already Implemented Age Verification
-
-As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal Age Verification requirements for Brazil or California.
-
 ### Operating Systems Planning to Implement Age Verification
+
+The developers or publishers of these Open Source Operating Systems have made plans and/or statements that they intend to comply with new Age Verification laws.  But, as yet, that Age Verfication functionality is not fully implemented.
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
 | :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
+
+### Operating Systems Which Have Already Implemented Age Verification
+
+As of the most recent update to this document, no known Open Source Operating Systems have fully complied with legal Age Verification requirements for Brazil or California.
