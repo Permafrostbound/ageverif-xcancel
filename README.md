@@ -2,9 +2,9 @@ This page is a running list of Open Source Operating Systems (Linux & *BSD distr
 
 There are several locales which have laws (in various stages) which require Operating Systems themselves to perform some level of age verification and reporting.
 
-Passed OS-Level Age Verification Laws: [Brazil](https://x.com/lundukejournal/status/2033927808196481101), & [California](https://x.com/lundukejournal/status/2026783141298360692).
+Passed OS-Level Age Verification Laws: [Brazil](https://xcancel.com/lundukejournal/status/2033927808196481101), & [California](https://x.com/lundukejournal/status/2026783141298360692).
 
-Proposed OS-Level Age Verification Laws: [Colorado](https://x.com/lundukejournal/status/2026331487499370988), [Illinois](https://x.com/lundukejournal/status/2031047619225493597), [New York](https://x.com/lundukejournal/status/2029081398577922173), & [Michigan](https://x.com/LundukeJournal/status/2036825163627466964)
+Proposed OS-Level Age Verification Laws: [Colorado](https://xcancel.com/lundukejournal/status/2026331487499370988), [Illinois](https://xcancel.com/lundukejournal/status/2031047619225493597), [New York](https://xcancel.com/lundukejournal/status/2029081398577922173), & [Michigan](https://xcancel.com/LundukeJournal/status/2036825163627466964)
 
 ### Operating Systems Not Implementing Age Verification
 
@@ -12,22 +12,22 @@ The developers or publishers of these open source Operating Systems have decided
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :no_entry: | **Omarchy Linux** | [Developer statement](https://x.com/lundukejournal/status/2029580164498108846) |
-| :no_entry: | **Devuan Linux** | [Developer statement](https://x.com/lundukejournal/status/2034697759291310115) |
-| :no_entry: | **Slackware Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036520144239743302) |
-| :no_entry: | **Zorin OS** | [Developer statement](https://x.com/LundukeJournal/status/2038282756715589738) |
-| :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://x.com/lundukejournal/status/2035390136356077822), [2](https://x.com/vendefoulwolf/status/2035441292520386852) |
-| :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://x.com/lundukejournal/status/2035073741613338964) |
-| :no_entry: | **FreeDOS** | [Developer statement](https://x.com/lundukejournal/status/2034770975309361583) |
-| :no_entry: | **Artix Linux** | [Developer statement](https://x.com/lundukejournal/status/2034776326901555488) |
-| :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://x.com/lundukejournal/status/2027358439991615715) |
-| :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://x.com/lundukejournal/status/2033896030178029675) |
-| :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://x.com/lundukejournal/status/2032951803134837237) |
-| :no_entry: | **Garuda Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036164910699188456) |
-| :no_entry: | **Void Linux** | [Developer statement](https://x.com/LundukeJournal/status/2036521455752495439) |
-| :no_entry: | **EndeavorOS Linux** | [Developer statement](https://x.com/LundukeJournal/status/2037393956384674196) |
-| :no_entry: | **GhostBSD** | [Developer statement](https://x.com/LundukeJournal/status/2039064364712345729) |
-| :no_entry: | **Parrot OS** | [Developer statement](https://x.com/LundukeJournal/status/2040148333185180125) |
+| :no_entry: | **Omarchy Linux** | [Developer statement](https://xcancel.com/lundukejournal/status/2029580164498108846) |
+| :no_entry: | **Devuan Linux** | [Developer statement](https://xcancel.com/lundukejournal/status/2034697759291310115) |
+| :no_entry: | **Slackware Linux** | [Developer statement](https://xcancel.com/LundukeJournal/status/2036520144239743302) |
+| :no_entry: | **Zorin OS** | [Developer statement](https://xcancel.com/LundukeJournal/status/2038282756715589738) |
+| :no_entry: | **Vendefoul Wolf Linux** | [Developer statement 1](https://xcancel.com/lundukejournal/status/2035390136356077822), [2](https://xcancel.com/vendefoulwolf/status/2035441292520386852) |
+| :no_entry: | **GrapheneOS** | Android-based mobile OS, [Developer statement](https://xcancel.com/lundukejournal/status/2035073741613338964) |
+| :no_entry: | **FreeDOS** | [Developer statement](https://xcancel.com/lundukejournal/status/2034770975309361583) |
+| :no_entry: | **Artix Linux** | [Developer statement](https://xcancel.com/lundukejournal/status/2034776326901555488) |
+| :no_entry: | **DB48X** | Calculator firmware, [Developer statement](https://xcancel.com/lundukejournal/status/2027358439991615715) |
+| :no_entry: | **Arch Linux 32** | [Developer forbids usage in Brazil, California](https://xcancel.com/lundukejournal/status/2033896030178029675) |
+| :no_entry: | **Ageless Linux** | [Debian fork created to protest Age Verification](https://xcancel.com/lundukejournal/status/2032951803134837237) |
+| :no_entry: | **Garuda Linux** | [Developer statement](https://xcancel.com/LundukeJournal/status/2036164910699188456) |
+| :no_entry: | **Void Linux** | [Developer statement](https://xcancel.com/LundukeJournal/status/2036521455752495439) |
+| :no_entry: | **EndeavorOS Linux** | [Developer statement](https://xcancel.com/LundukeJournal/status/2037393956384674196) |
+| :no_entry: | **GhostBSD** | [Developer statement](https://xcancel.com/LundukeJournal/status/2039064364712345729) |
+| :no_entry: | **Parrot OS** | [Developer statement](https://xcancel.com/LundukeJournal/status/2040148333185180125) |
 
 ### Operating Systems Planning to Implement Age Verification
 
@@ -35,10 +35,10 @@ The developers or publishers of these Open Source Operating Systems have made pl
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://x.com/lundukejournal/status/2029198322309681311) |
+| :building_construction: | **Ubuntu** | [Planning Discussion](https://lists.ubuntu.com/archives/ubuntu-devel/2026-March/043510.html), [Ubuntu VP Statement](https://xcancel.com/lundukejournal/status/2029198322309681311) |
 | :building_construction: | **Pop!_OS** | [System76 Statement opposing, but planning to implement](https://blog.system76.com/post/system76-on-age-verification) |
 | :building_construction: | **elementary OS** | [Founder Statement planning to implement](https://mastodon.social/@danirabbit@mastodon.online/116250766314705297) |
-| :building_construction: | **Fedora** | [Planning Discussion](https://x.com/LundukeJournal/status/2036526650154729543) |
+| :building_construction: | **Fedora** | [Planning Discussion](https://xcancel.com/LundukeJournal/status/2036526650154729543) |
 
 ### Uncertain Age Verification Future
 
@@ -46,8 +46,8 @@ The developers or publishers of these open source Operating Systems have made st
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :question: | **CachyOS** | [Developer statement](https://x.com/LundukeJournal/status/2037217859739542005) |
-| :question: | **MX Linux** | [Developer statement](https://x.com/LundukeJournal/status/2038279978907758664) |
+| :question: | **CachyOS** | [Developer statement](https://xcancel.com/LundukeJournal/status/2037217859739542005) |
+| :question: | **MX Linux** | [Developer statement](https://xcancel.com/LundukeJournal/status/2038279978907758664) |
 
 ### Operating Systems Which Have Already Implemented Age Verification
 
@@ -55,4 +55,4 @@ The following Operating Systems have officially added default Age Verification (
 
 | &nbsp; | Operating System | Notes |
 | - | - | - |
-| :identification_card: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://x.com/midnightbsd/status/2030992394703732872), [but Age Attestation added by default](https://x.com/LundukeJournal/status/2039377663026926005) |
+| :identification_card: | **Midnight BSD** | [License temporarily forbids usage in Brazil, California](https://xcancel.com/midnightbsd/status/2030992394703732872), [but Age Attestation added by default](https://xcancel.com/LundukeJournal/status/2039377663026926005) |
